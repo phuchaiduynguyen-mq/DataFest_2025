@@ -20,6 +20,7 @@
 
 # RStudio files
 .Rproj.user/
+firstDay.r 
 
 # produced vignettes
 vignettes/*.html
